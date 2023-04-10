@@ -36,7 +36,19 @@ height: 75px;
 background-color: beige;
 margin: 2px;
 }
-
+.biologia{
+width: 80px;
+height: 75px;
+background-color: beige;
+margin: 2px;
+}
+.matematicas{
+width: 80px;
+height: 75px;
+background-color: beige;
+margin: 2px;
+}
+    
 .contenedor2{
     display: flex;
     width: 100%;
